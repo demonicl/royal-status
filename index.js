@@ -1,4 +1,4 @@
-// Fivem Server Status Discord Bot by Zofux
+// Fivem Server Status Discord Bot by demon
 
 // DO NOT CHANGE THE CODE, change the config.json
 
